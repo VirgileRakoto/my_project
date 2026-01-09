@@ -1,0 +1,12 @@
+# Ignorer tout
+*
+
+# Autoriser la traversée des dossiers
+!*/
+
+# Inclure uniquement fichiers Python et JSON
+!*.py
+!*.json
+
+# Inclure ce fichier .gitignore lui-même
+!.gitignore
